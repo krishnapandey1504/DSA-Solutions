@@ -57,6 +57,17 @@
 # 📂 Solutions by Topic
 
 <!---LeetCode Topics Start-->
+## Array
+
+|  |
+| ------- |
+| [0169-majority-element](./0169-majority-element) |
+
+## Hash Table
+
+|  |
+| ------- |
+| [0169-majority-element](./0169-majority-element) |
 <!---LeetCode Topics End-->
 
 ---
