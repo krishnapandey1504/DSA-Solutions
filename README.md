@@ -1,76 +1,51 @@
 # 📚 DSA Solutions
 
-My Data Structures & Algorithms practice log — solutions synced automatically via [LeetSync](https://github.com/LeetSync/LeetSync).
+> My Data Structures & Algorithms journey on LeetCode.
 
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-0-orange)
-![Hard](https://img.shields.io/badge/Hard-0-red)
-![Total](https://img.shields.io/badge/Total%20Solved-0-blue)
-
----
-
-## 📊 Progress Tracker
-
-| Difficulty | Solved | Total Attempted |
-|------------|--------|------------------|
-| 🟢 Easy    | 0      | 0                |
-| 🟡 Medium  | 0      | 0                |
-| 🔴 Hard    | 0      | 0                |
-| **Total**  | **0**  | **0**            |
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/krishnapandey1504/DSA-Solutions?style=for-the-badge"/>
+</p>
 
 ---
 
-## ✅ Topics Checklist
+## 📊 LeetCode Stats
 
-- [ ] Arrays & Strings
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Linked Lists
-- [ ] Stacks & Queues
-- [ ] Hashing
-- [ ] Recursion & Backtracking
-- [ ] Trees
-- [ ] Graphs
-- [ ] Binary Search
-- [ ] Sorting
-- [ ] Greedy
-- [ ] Dynamic Programming
-- [ ] Bit Manipulation
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Krishnap_006?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 ---
 
-## 📅 Solve Log
+## 📈 GitHub Stats
 
-| Date | Problem | Difficulty | Topic | Link |
-|------|---------|------------|-------|------|
-| YYYY-MM-DD | Two Sum | Easy | Array/Hashing | [LeetCode](https://leetcode.com/problems/two-sum/) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapandey1504&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnapandey1504&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🔗 Profile
+## 🛠️ Languages
 
-[LeetCode Profile](https://leetcode.com/Krishnap_006)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapandey1504&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔗 Profiles
+
+- 💻 LeetCode: https://leetcode.com/Krishnap_006
+- 🌐 GitHub: https://github.com/krishnapandey1504
+
+---
+
+## 📂 Topic-wise Solutions
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
-## Sorting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
