@@ -50,3 +50,27 @@ My Data Structures & Algorithms practice log — solutions synced automatically 
 ## 🔗 Profile
 
 [LeetCode Profile](https://leetcode.com/Krishnap_006)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnapandey1504/DSA-Solutions/tree/master/0169-majority-element) |
+<!---LeetCode Topics End-->
